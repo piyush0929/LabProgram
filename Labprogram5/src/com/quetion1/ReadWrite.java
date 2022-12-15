@@ -10,8 +10,8 @@ public class ReadWrite {
 
 	static void readWrite() throws IOException
 	{
-		System.out.println(" enter the choice  ");
-		System.out.println(" choice 1 for write and choice 2 for read ");
+		System.out.println("enter the choice");
+		System.out.println("choice 1 for write and choice 2 for read");
 		Scanner in=new Scanner(System.in);
 		
 		int a=in.nextInt();
