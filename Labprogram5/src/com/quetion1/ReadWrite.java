@@ -53,7 +53,7 @@ public class ReadWrite {
 	{
 		ReadWriteFile rd =new ReadWriteFile() ;
 		rd.readWrite();
-
+		
 	}
 
 }
